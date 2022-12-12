@@ -54,8 +54,8 @@ Conclusion:<br>
 -Coleomegilla maculata(Yellow), Chilocorus stigma(Orange), found all three months<br>
 -Larvae and Pupa found only in June<br>
 
-##Contributors
-Hildana Teklegiorgis(hteklegiorgis20@augustana.edu)
-Joshua Chalachew(Eyasuyenesew20@augustana.edu)
+## Contributors
+Hildana Teklegiorgis(hteklegiorgis20@augustana.edu)<br>
+Joshua Chalachew(Eyasuyenesew20@augustana.edu)<br>
 
 
