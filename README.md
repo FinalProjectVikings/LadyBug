@@ -13,10 +13,10 @@ Analysis of Ladybug data set
 
 
 ## Dataset: 
-This dataset included information on lady bugs such as:
-     -sex
-     -Information on how and when they were were collected
-     -Scientific Names
+This dataset included information on lady bugs such as:<br>
+     -sex<br>
+     -Information on how and when they were were collected<br>
+     -Scientific Names<br>
 ## Cleaning
  Step 1<\n>
  Step 2
