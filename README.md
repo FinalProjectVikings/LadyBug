@@ -28,10 +28,32 @@ using Rstudio, we organized and cleaned the data to perform analysis and give de
 ![Rplot02](https://user-images.githubusercontent.com/108307724/207134532-f8b665ec-6d46-4997-9404-6a615213e849.png)
 
  Purpose: This visual tells us about the population species in each plot
+ Conclusion: <br>
+-In plot LP AG(Agriculture):<br>
+-The most found species was colemugalla maculata<br>
+-In plot LP IC(Industrial):<br>
+-The most found species was Harmonia axyridis<br>
+
+
+
  ## Visual 2: Plot by Population
  ![Rplot03](https://user-images.githubusercontent.com/108307724/207134797-0cbccaa0-0af2-475c-87b4-e908d251f298.png)
 Purpose:This visual tell us about the number of lad bugs collecetd from each plot. 
+Conclusion:<br>
+-The plot the most species were found in was LP GU(Unmowed grass)<br>
+-The plot the least specie swerve found in were LP GF(Forested)<br>
+
+
  ## Visual 3: Plot by Month Grouped by Species
  ![Rplot08](https://user-images.githubusercontent.com/108307724/207135034-31f6fbf5-6a3d-443e-8d1c-b568df9550da.png)
-
+ 
 Purpose: This visual tells about about the months that each species were collected.
+Conclusion:<br>
+-Least species found in June, most found in July and August
+-Psyllobora vigintimaculata only found in August
+-Coleomegilla maculata(Yellow), Chilocorus stigma(Orange), found all three months
+-Larvae and Pupa found only in June
+
+
+
+
