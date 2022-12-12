@@ -11,7 +11,6 @@ Analysis of Ladybug data set
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-#### Link: https://fit-beat-depresso.herokuapp.com/ [1]
 
 ## Overview: 
 
