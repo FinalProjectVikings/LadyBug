@@ -27,11 +27,11 @@ using Rstudio, we organized and cleaned the data to perform analysis and give de
 
 ![Rplot02](https://user-images.githubusercontent.com/108307724/207134532-f8b665ec-6d46-4997-9404-6a615213e849.png)
 
- 
+ Purpose: This visual tells us about the population species in each plot
  ## Visual 2: Plot by Population
  ![Rplot03](https://user-images.githubusercontent.com/108307724/207134797-0cbccaa0-0af2-475c-87b4-e908d251f298.png)
-
+Purpose:This visual tell us about the number of lad bugs collecetd from each plot. 
  ## Visual 3: Plot by Month Grouped by Species
  ![Rplot08](https://user-images.githubusercontent.com/108307724/207135034-31f6fbf5-6a3d-443e-8d1c-b568df9550da.png)
 
-
+Purpose: This visual tells about about the months that each species were collected.
