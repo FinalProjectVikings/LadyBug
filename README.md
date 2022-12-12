@@ -49,10 +49,10 @@ Conclusion:<br>
  
 Purpose: This visual tells about about the months that each species were collected.
 Conclusion:<br>
--Least species found in June, most found in July and August
--Psyllobora vigintimaculata only found in August
--Coleomegilla maculata(Yellow), Chilocorus stigma(Orange), found all three months
--Larvae and Pupa found only in June
+-Least species found in June, most found in July and August<br>
+-Psyllobora vigintimaculata only found in August<br>
+-Coleomegilla maculata(Yellow), Chilocorus stigma(Orange), found all three months<br>
+-Larvae and Pupa found only in June<br>
 
 
 
