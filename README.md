@@ -18,11 +18,11 @@ This dataset included information on lady bugs such as:
      -Information on how and when they were were collected
      -Scientific Names
 ## Cleaning
- Step 1
+ Step 1<\n>
  Step 2
  Step 3
  
- ##Visual 1
+ ## Visual 1
  
- ##visual 2
+ ## Visual 2
      
