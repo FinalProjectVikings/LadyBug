@@ -23,7 +23,9 @@ using Rstudio, we organized and cleaned the data to perform analysis and give de
  Step 2: Left joining the two files<br>
  Step 3: Got rid of Day from date so that we could analyze by month and observe trends<br>
  
- ## Visual 1
+ ## Visual 1: Species by Pouplation Grouped by Plot
+<a><img src="/Users/hildanateklegiorgis/Desktop/Data 331/Final Project/Project-Insect-Carnivore-main/data"></a>
+
  
  ## Visual 2
      
