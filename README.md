@@ -12,8 +12,9 @@ Analysis of Ladybug data set
 </p>
 
 
-## Overview: 
-
-👉  Ever feel inconvenient having to report your feeling to nowadays' mental health app on the market. </br>
-👉  Ever feel shy talking to your family/close friends about your stress but wish that they reach out to you. </br>
-👉  Ever been a stressful international student. You want to let your parents know your feelings but at the same time, you're afraid to speak up. </br>
+## Dataset: 
+Included Ladybug species with many information regarding :
+     -sex
+     -Information on how and when they were were collected
+     -Scientific Names
+     
