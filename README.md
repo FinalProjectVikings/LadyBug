@@ -13,14 +13,15 @@ Analysis of Ladybug data set
 
 
 ## Dataset: 
-This dataset included information on lady bugs such as:<br>
+This dataset included two files (an xlsx and a csv file) which contained an unstructured information on lady bugs such as:<br>
      -sex<br>
      -Information on how and when they were were collected<br>
      -Scientific Names<br>
+using Rstudio, we organized and cleaned the data to perform analysis and give descriptions using different visuals.
 ## Cleaning
- Step 1<\n>
- Step 2
- Step 3
+ Step 1: Renaming different columns and rows so that it would have a formal and lineared data set<br>
+ Step 2: Left joining the two files<br>
+ Step 3: Got rid of Day from date so that we could analyze by month and observe trends<br>
  
  ## Visual 1
  
