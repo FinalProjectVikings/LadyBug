@@ -2,8 +2,8 @@
 Analysis of Ladybug data set
 
 
-<h1 align="center"> Lady Bug Analysis
-     <a style="color:#E7655A;"> Rscript Explanation</a>
+<h1 align="center"> Lady Bug 
+     <a style="color:#E7655A;">  Analysis   </a>
 </h1>
 
 <p align="center">  
